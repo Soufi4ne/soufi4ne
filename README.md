@@ -4,7 +4,9 @@ Hi 👋 My name is Soufi4ne
 Web Developer and Student at Efrei Paris
 ----------------------------------------
 
-‣ Développeur Web Junior et actuellement Étudiant à Efrei Paris | J'aime concevoir des sites et applications en utilisant des techno modernes - L'essai mène à l'erreur, l'erreur mène à la compréhension.
+𝗪𝗲𝗯 𝗙𝗮𝗻 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵 𝗘𝗻𝗷𝗼𝘆𝗲𝗿 💻🚀
+
+‣ Junior Web Developer and currently Student at Efrei Paris | I like designing Websites and applications using tons of modern tech - Trial leads to error, error leads to understanding.
 
 * 🌍  I'm based in Paris
 * 🧠  I'm learning NextJS
