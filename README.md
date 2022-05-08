@@ -10,7 +10,7 @@ Web Developer and Student at Efrei Paris
 
 * 🌍  I'm based in Paris
 * 🧠  I'm learning NextJS
-* 🤝  I'm open to collaborating on Web Project
+* 🤝  I'm open to collaborating on any Web Project
 * ⚡  I love Virtual Reality
 
 ### Skills
