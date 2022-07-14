@@ -11,9 +11,9 @@ Web Developer and Student at Efrei Paris
 * 🌍  I'm based in **Paris**
 * 🔭  I’m working on **for a Web Agency in StationF**
 * 🧠  I'm currently learning **VueJS and Java**
-* 💬  Ask me anything about UX & UI Design, i would be happy to help
-* 🤝  I'm open to collaborate on any Web Project
-* ⚡  I love Virtual Reality and High-Tech
+* 💬  Ask me anything about **UX & UI Design**, i would be happy to help
+* 🤝  I'm open to collaborate on any **Web Project**
+* ⚡  I love **Virtual Reality** and **High-Tech**
 
 ### Skills
 
