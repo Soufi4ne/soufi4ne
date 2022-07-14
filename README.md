@@ -9,7 +9,7 @@ Web Developer and Student at Efrei Paris
 ‣ Junior Web Developer and also Student at Efrei Paris | I like designing Websites and Applications using tons of modern tech - Trial leads to error, error leads to understanding.
 
 * 🌍 I live in **Paris**
-* 🔭 I’m working on **for a Web Agency in StationF**
+* 🔭 I’m working for a **Web Agency in StationF**
 * 🧠 I'm currently learning **VueJS and Java**
 * 💬 Ask me anything about **UX & UI Design**, i would be happy to help
 * 🤝 I'm open to collaborate on any **Web Project**
