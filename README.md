@@ -10,7 +10,7 @@ Web Developer and Student at Efrei Paris
 
 * 🌍 I live in **Paris**
 * 🔭 I’m working for a **Bank as a Back End Developer**
-* 🧠 I'm currently learning **VueJS and Java**
+* 🧠 I'm currently learning **Java and Spring Boot**
 * 💬 Ask me anything about **UX & UI Design**, i would be happy to help
 * 🤝 I'm open to collaborate on any **Web Project**
 * ⚡ I love **Virtual Reality** and **High-Tech**
